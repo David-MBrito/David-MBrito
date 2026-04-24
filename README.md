@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil cozidão 😁
 
  <div>
    <a href="https://github.com/David-MBrito">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### testando testandooo!
  
 <div> 
   <a href="https://www.youtube.com/channel/UCloI1ERjg-Qwb1Pvyi0mnfg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
